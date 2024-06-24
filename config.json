@@ -3,7 +3,7 @@
     "krc20mainnet":"1",
     
     "tickers":{
-        "endtime":"",
+        "endtime":"2024-08-1T00:00:00.000Z",
         "tickers":[
             "NACHO",
             "KCATS",
