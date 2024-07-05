@@ -20,5 +20,7 @@
             "BTAI"
         ]
 
-    }
+    },
+    "testnet":"0",
+    "mainnet":"0"
 }
