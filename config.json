@@ -18,10 +18,10 @@
       "KEKE",
       "DOGK",
       "BTAI"
-    ],
-    "notice": {
-      "showsafenotice": true,
-      "notice": "This is a testnet, please do not use it in the main network"
-    }
+    ]
+  },
+  "notice": {
+    "showsafenotice": true,
+    "notice": "This is a testnet, please do not use it in the main network"
   }
 }
