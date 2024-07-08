@@ -1,26 +1,25 @@
 {
-    "tickers":{
-        "krc20testnet":"0",
-        "krc20mainnet":"0",
-        "endtime":"2024-08-01T00:00:00.000Z",
-        "tickers":[
-            "NACHO",
-            "KCATS",
-            "KASTOR",
-            "KASPER",
-            "FUSUN",
-            "KPAW",
-            "RUBY",
-            "PPKAS",
-            "GHOAD",
-            "KEPE",
-            "WORI",
-            "KEKE",
-            "DOGK",
-            "BTAI"
-        ]
-
-    },
-    "testnet":"0",
-    "mainnet":"0"
+  "tickers": {
+    "krc20testnet": "0",
+    "krc20mainnet": "0",
+    "endtime": "2024-07-03T00:00:00.000Z",
+    "tickers": [
+      "NACHO",
+      "KCATS",
+      "KASTOR",
+      "KASPER",
+      "FUSUN",
+      "KPAW",
+      "RUBY",
+      "PPKAS",
+      "GHOAD",
+      "KEPE",
+      "WORI",
+      "KEKE",
+      "DOGK",
+      "BTAI"
+    ],
+    "showsafenotice": true,
+    "notice": "This is a testnet, please do not use it in the main network"
+  }
 }
