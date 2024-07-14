@@ -25,19 +25,20 @@
     "notice": "The minting. everyone stops minting now.inting. everyone stops minting now."
   },
   "krc20tickers": [
-    "NACHO",
+    "BTAI",
+    "DOGK",
+    "FUSUN",
+    "GHOAD",
     "KCATS",
     "KASTOR",
     "KASPER",
-    "FUSUN",
-    "KPAW",
-    "RUBY",
-    "PPKAS",
-    "GHOAD",
     "KEPE",
-    "WORI",
     "KEKE",
-    "DOGK",
-    "BTAI"
+    "KPAW",
+    "KSPR",
+    "NACHO",
+    "PPKAS",
+    "RUBY",
+    "WORI"
   ]
 }
