@@ -21,8 +21,9 @@
     ]
   },
   "notice": {
+    "versions": ["0", "0.7.3"],
     "showsafenotice": true,
-    "notice": "The minting. everyone stops minting now.inting. everyone stops minting now."
+    "notice": "test. The minting. everyone stops minting now.inting. everyone stops minting now."
   },
   "krc20tickers": [
     "BTAI",
